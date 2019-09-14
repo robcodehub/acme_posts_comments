@@ -1,0 +1,26 @@
+{
+  "name": "acme_posts_comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robcodehub/acme_posts_comments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robcodehub/acme_posts_comments/issues"
+  },
+  "homepage": "https://github.com/robcodehub/acme_posts_comments#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.12.1",
+    "uuid": "^3.3.3"
+  }
+}
